@@ -11,3 +11,6 @@ Charger: https://www.ebay.co.uk/itm/TP4056-18650-Li-Ion-1A-Lithium-Battery-Charg
 * Read this: https://tenbaht.github.io/sduino/hardware/stm8blue/
 * Install SDuino in the arduino boards manager
 * I uploaded to the board with an ST-link V2
+
+
+![Video of operation](Example.gif "GIF")
